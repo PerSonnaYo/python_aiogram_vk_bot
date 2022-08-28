@@ -1,5 +1,5 @@
 # python_aiogram_vk_bot
 
 Бот для контроля за наличием товара. Фотографии в вк переносятся в другой альбом, в БД вносятся определенные изменения 
-      python 3.7.4
-      #aiogram #postgresql #vk
+            python 3.7.4
+            #aiogram #postgresql #vk
